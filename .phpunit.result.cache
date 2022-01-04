@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Gelaku\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidType":3,"Gelaku\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidFormat":4},"times":{"Gelaku\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidType":0.165,"Gelaku\\Weather\\Tests\\WeatherTest::testGetWeatherWithInvalidFormat":0}}

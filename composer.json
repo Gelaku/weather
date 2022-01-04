@@ -1,0 +1,28 @@
+{
+    "name": "gelaku/weather",
+    "description": "A weather SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gelaku",
+            "email": "licjie@yeah.net"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "phpunit/phpunit": "^9.5",
+        "mockery/mockery": "^1.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gelaku\\Weather\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Gelaku\\Weater\\ServiceProvider"
+            ]
+        }
+    }
+}
