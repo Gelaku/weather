@@ -4,7 +4,7 @@ namespace Gelake\Weather;
 
 use Gelaku\Weather\Weather;
 
-class ServiceProvide extends \Illuminate\Support\ServiceProvider
+class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     // 延迟注册
     protected $defer = true;

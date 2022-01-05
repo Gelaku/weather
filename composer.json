@@ -21,7 +21,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Gelaku\\Weather\\ServiceProvider"
+                "Gelake\\Weather\\ServiceProvider"
             ]
         }
     }
