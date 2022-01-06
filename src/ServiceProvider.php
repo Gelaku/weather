@@ -1,6 +1,6 @@
 <?php
 
-namespace Gelake\Weather;
+namespace Gelaku\Weather;
 
 use Gelaku\Weather\Weather;
 
