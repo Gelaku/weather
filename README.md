@@ -6,7 +6,7 @@
 ## Installing
 
 ```shell
-$ composer require gelaku/weather -vvv
+composer require gelaku/weather -vvv
 ```
 
 ## 配置
@@ -221,7 +221,7 @@ WEATHER_API_KEY=xxxxxxxxxxxxxxxxxxxxx
 
 - [高德开放平台天气接口](https://lbs.amap.com/api/webservice/guide/api/weatherinfo/)
 
-## PHP 扩展包开发 (优秀作者：overtrue)
+## PHP 扩展包开发 (优秀作者：[overtrue](https://github.com/overtrue))
 如果你喜欢该项目并想支持它，[点击这里](https://github.com/sponsors/overtrue)
 
 ## License
