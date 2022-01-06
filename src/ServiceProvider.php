@@ -21,6 +21,11 @@ class ServiceProvider extends \Illuminate\Support\ServiceProvider
         $this->app->alias(Weather::class, 'weather');
     }
 
+    /**
+     * Get the services provided by the provider.
+     *
+     * @return array
+     */
     public function provides()
     {
         return [Weather::class, 'weather'];
