@@ -67,4 +67,5 @@ class WeatherTest extends TestCase
         // 如果没有抛出异常，就会运行到这行，标记当前测试没成功
         $this->fail('Failed to assert getWeather throw exception with invalid argument.');
     }
+
 }
